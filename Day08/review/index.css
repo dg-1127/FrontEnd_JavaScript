@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button {
+  padding: 12px 35px;
+  border: none;
+  border-radius: 40px;
+  color: white;
+  font-size: 18px;
+}
+
+.red {
+    background-color: red;
+}
